@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $'#!/bin/bash\nBest School\n' > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"| chmod 664 '\*\'\''"Best School"\'\''\*$\?\*\*\*\*\*:)'
+echo "Best School" > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"
